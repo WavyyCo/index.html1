@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Innovative SaaS Solutions</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Revolutionize Your Business with Our SaaS Products</h1>
+        <p>Streamline operations and boost productivity with cutting-edge software solutions.</p>
+    </header>
+    <section id="products">
+        <h2>Our SaaS Products</h2>
+        <article>
+            <h3>CRM Software</h3>
+            <p>Manage customer relationships efficiently with our intuitive CRM solution.</p>
+        </article>
+        <article>
+            <h3>Project Management</h3>
+            <p>Keep your projects on track with our comprehensive project management tool.</p>
+        </article>
+        <article>
+            <h3>Accounting Software</h3>
+            <p>Simplify your financial management with our user-friendly accounting software.</p>
+        </article>
+    </section>
+    <footer>
+        <p>© 2024 SaaS Solutions. All rights reserved.</p>
+    </footer>
+</body>
+</html>
